@@ -1,0 +1,9 @@
+C:\Users\milkah.warui\source\repos\UpesiSMS\UpesiSMS\bin\Debug\netcoreapp3.1\UpesiSMS.deps.json
+C:\Users\milkah.warui\source\repos\UpesiSMS\UpesiSMS\bin\Debug\netcoreapp3.1\UpesiSMS.dll
+C:\Users\milkah.warui\source\repos\UpesiSMS\UpesiSMS\bin\Debug\netcoreapp3.1\UpesiSMS.pdb
+C:\Users\milkah.warui\source\repos\UpesiSMS\UpesiSMS\obj\Debug\netcoreapp3.1\UpesiSMS.AssemblyInfoInputs.cache
+C:\Users\milkah.warui\source\repos\UpesiSMS\UpesiSMS\obj\Debug\netcoreapp3.1\UpesiSMS.AssemblyInfo.cs
+C:\Users\milkah.warui\source\repos\UpesiSMS\UpesiSMS\obj\Debug\netcoreapp3.1\UpesiSMS.csproj.CoreCompileInputs.cache
+C:\Users\milkah.warui\source\repos\UpesiSMS\UpesiSMS\obj\Debug\netcoreapp3.1\UpesiSMS.dll
+C:\Users\milkah.warui\source\repos\UpesiSMS\UpesiSMS\obj\Debug\netcoreapp3.1\UpesiSMS.pdb
+C:\Users\milkah.warui\source\repos\UpesiSMS\UpesiSMS\obj\Debug\netcoreapp3.1\UpesiSMS.csprojAssemblyReference.cache

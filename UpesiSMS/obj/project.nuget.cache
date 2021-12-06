@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3W2Poa9cMSkcQY7WX5gT1GGpQ+MpGAxiuzDFZjaF7h817JPGPVE0EvhaEb66fhYa1Jl9cV0fpgb0llZiJ2oog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Milkah.Warui\\source\\repos\\UpesiSMS\\UpesiSMS\\UpesiSMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Milkah.Warui\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
